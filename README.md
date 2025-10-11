@@ -4,7 +4,7 @@ My all python project's
 BY- <b> Suryam Gahoi </b>
 <hr>
 
-<h3>About Project</h3>
+<h3>About my Project's</h3>
 
 project-1: This project is basically a game. the name of this game is <b><i>Sanke, Water, Gun Game</i></b>. 
 <br>
