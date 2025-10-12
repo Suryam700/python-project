@@ -15,4 +15,4 @@ project-2: This project is also a game. the name of this game is <b><i>Guess the
 project-3: This project is used when you are not able to talk with your mouth then use <b><i>robo speaker</i></b>. This will speak your typed text.</i>. 
 <br>
 <br>
-project-3: This project shows us how to use <b>APIs</b>. This python project give information about <i><b>Temperature</b></i> in a particular <b>City</b>.
+project-4: This project shows us how to use <b>APIs</b>. This python project give information about <i><b>Temperature</b></i> in a particular <b>City</b>.
