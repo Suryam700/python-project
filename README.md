@@ -18,4 +18,4 @@ Robo Speaker project: This project is used when you are not able to talk with yo
 Weather app project: This project shows us how to use <b>APIs</b>. This python project give information about <i><b>Temperature</b></i> in a particular <b>City</b>.
 <br>
 <br>
-Image resizer project: By using this project you can change any </b></i> image </i></b> according to your preference. You can change width and height separately.
+Image resizer project: By using this project you can change any </b></i>image</i></b> according to your preference. You can change </b></i> Width </i></b> and </b></i> Height </i></b> separately.
