@@ -19,3 +19,6 @@ BY- <b> Suryam Gahoi </b>
 <br>
 <br>
 <h4>Image resizer project:</h4> By using this project you can change any <b><i>image</i></b> according to your preference. You can change <b><i> Width </i></b> and <b><i> Height </i></b> separately.
+<br>
+<br>
+<h4>PDF Merger project:</h4> You can merge <b>2 or more PDF</b> and get new merged PDF. & <i>you can give another name for merged PDF as you want</i>.
